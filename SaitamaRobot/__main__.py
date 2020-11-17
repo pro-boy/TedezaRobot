@@ -81,8 +81,7 @@ And the following:
     dispatcher.bot.first_name, ""
     if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n")
 
-SAITAMA_IMG = "https://telegra.ph/file/b20782193c9c4846a2ed0.jpg"
-
+SAITAMA_IMG = "https://telegra.ph/file/24d5352ec4ef7ba2b1043.jpg"
 DONATE_STRING = """Heya, glad to hear you want to donate!
 Hellbot is hosted on one of Kaizoku's Servers and doesn't require any donations as of now but \
 You can donate to the original writer of the Base code, Paul
