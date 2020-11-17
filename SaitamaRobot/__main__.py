@@ -52,8 +52,8 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-Hi {}, my name is {}! 
-I am an Hell Them group management bot.
+Hi , my name is ASUNA
+I am a cute group management bot.
 🧿 I have the normal GROUP MANAGING functions like flood control, a warning system etc but I mainly have the advanced and handy Antispam system and the SIBYL-x banning system which safegaurds and helps your group from spammers.\n
 If You want A healthy And Save Group From Spammer Then Add me Their I Will Help You.
 Hit This --> /help Too See My Commands.\n\n
