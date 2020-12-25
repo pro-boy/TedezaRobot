@@ -52,18 +52,18 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-Hi , my name is ASUNA
+Hi , my name is Tedeza
 I am a cute group management bot.
-🧿 I have the normal GROUP MANAGING functions like flood control, a warning system etc but I mainly have the advanced and handy Antispam system and the SIBYL-x banning system which safegaurds and helps your group from spammers.\n
+🧿 I have the Best GROUP MANAGING functions like flood control, a warning system etc but I mainly have the advanced and handy Antispam system and the SIBYL-x banning system which safegaurds and helps your group from spammers.\n
 If You want A healthy And Save Group From Spammer Then Add me Their I Will Help You.
 Hit This --> /help Too See My Commands.\n\n
--> [Support Group](https://t.me/Hellsupportgroup)
--> [Support channel](https://t.me/Hellsupportchannel)
+-> [Support Group](https://t.me/Tedeza_support)
+-> [Support channel](https://t.me/Tedeza_official)
 """
 
 HELP_STRINGS = """
 Hey there! My name is *{}*.
-I'm a Hellbot For Fun And Managing Group Simply Promote Me admin There. And Type My Commands
+I'm a Cutie For Fun And Managing Group Simply Promote Me admin There. And Type My Commands
 the things I can help you with.
 
 *Main* commands available:
@@ -81,9 +81,9 @@ And the following:
     dispatcher.bot.first_name, ""
     if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n")
 
-SAITAMA_IMG = "https://telegra.ph/file/24d5352ec4ef7ba2b1043.jpg"
+SAITAMA_IMG = "https://telegra.ph/file/be6f01487a1b2e8b40996.jpg"
 DONATE_STRING = """Heya, glad to hear you want to donate!
-Hellbot is hosted on one of Kaizoku's Servers and doesn't require any donations as of now but \
+Tedeza is hosted on one of Kaizoku's Servers and doesn't require any donations as of now but \
 You can donate to the original writer of the Base code, Paul
 There are two ways of supporting him; [PayPal](paypal.me/Beast_boy_shubu), or [Monzo](monzo.me/paulnionvestergaardlarsen)."""
 
